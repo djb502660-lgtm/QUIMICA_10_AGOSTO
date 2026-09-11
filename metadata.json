@@ -1,0 +1,7 @@
+{
+  "name": "Sofía - Asistente Paisa",
+  "description": "Una asistente de voz en tiempo real con acento Paisa colombiano, utilizando Gemini 2.5 Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

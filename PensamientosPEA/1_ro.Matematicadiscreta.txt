@@ -1,0 +1,2899 @@
+--- PÁGINA 1 ---
+ 
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 1 de 24 
+ 
+FECHA DE EXPEDICIÓN: 
+29 de noviembre del 
+2023 
+FECHA DE 
+ACTUALIZACION: 
+N/A 
+ELABORADO POR: 
+Unidad de Aseguramiento de la 
+Calidad - Rectorado 
+APROBADO POR: 
+RES-ISTAE-OCS-2023-SO-02-R003 
+ 
+ 
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA 
+1. DATOS GENERALES DE LA ASIGNATURA 
+NOMBRE DE LA CARRERA 
+Tecnología Superior en Desarrollo de Software 
+Nombre de la Asignatura Código 
+Matemáticas Discreta  TSDS-102 
+Prerrequisito de la Asignatura Código 
+Ninguno Ninguno 
+Correquisito de la Asignatura Código 
+Ninguno Ninguno 
+Nivel que se encuentra la asignatura Periodo Académico 
+Primer Nivel  IPA 2026 
+Número de créditos 2 
+Horas contacto con docente 
+semanal 
+Horas de aprendizaje práctico 
+experimental semanal 
+Horas de aprendizaje 
+autónomo 
+semanal 
+2 hora 1 hora 3 hora 
+ 
+2. DATOS INFORMATIVOS DEL DOCENTE 
+DOCENTE 
+Nombres y Apellidos: Grados Académicos: 
+  Josselyn Quiñónez     Lic. Pedagogía de las matemáticas y la física  
+Número de celular: Correo electrónico institucional: 
+   0982515919    josselynemina@gmail.com 
+Días de tutorías Horas de tutorías 
+Miércoles  12H00-13H00 
+ 
+3. DESCRIPCIÓN DE LA ASIGNATURA 
+La asignatura de Matemáticas Discreta impartida a los estudiantes de primer nivel de la carrera de 
+Desarrollo de Software, comprende un proceso semanal de enseñanza de 2 hora teórica, 1 práctica y 
+3 horas de aprendizaje autónomo, en las cuales se aborda los principales temas referente a: Unidad 
+1: Teoría de conjuntos, Unidad 2 Tipos de números, Unidad 3 Lógica proposicional, Unidad 4 
+Algebra booleana, Unidad 5 Algebra booleana, Unidad 6 Números reales y funciones, Unidad 7 
+Teoría de grafos y árboles. 
+
+
+--- PÁGINA 2 ---
+ 
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 2 de 24 
+ 
+FECHA DE EXPEDICIÓN: 
+29 de noviembre del 
+2023 
+FECHA DE 
+ACTUALIZACION: 
+N/A 
+ELABORADO POR: 
+Unidad de Aseguramiento de la 
+Calidad - Rectorado 
+APROBADO POR: 
+RES-ISTAE-OCS-2023-SO-02-R003 
+ 
+4. FUNCIONES ESPECÍFICAS DE LA ASIGNATURA EN LA FORMACIÓN DEL PROFESIONAL 
+4.1. Definición del perfil de egreso de la carrera 
+Los estudiantes al egresar de la Carrera de Desarrollo de Software serán capaces de realizar soporte 
+en desarrollo y aplicación de programas informáticos y aplicativos móviles mediante la operación 
+de protocolos técnicos de las ciencias informáticas. Los resultados de aprendizaje y competencias 
+que se obtendrán serán los siguientes: 
+• Emplear conocimientos fundamentales que determinen la correcta aplicación de 
+procedimientos y normas de las TICS para fortalecer el ensamblaje y mantenimiento de 
+sistemas informáticos. 
+• Aplicar procesos para el mantenimiento de equipos y sistemas informáticos. 
+• Aplicar los conceptos y principios del área de las TICS en los procesos informáticos. 
+• Ejecutar proyectos de investigación aplicados a la profesión para la innovación, 
+fortalecimiento y productividad del sector social y productivo. 
+• Evaluar el correcto funcionamiento de Hardware y Software a través de las herramientas 
+necesarias para identificar los posibles problemas en el equipo de cómputo y de redes. 
+• Proporcionar soporte técnico en software de aplicación para el correcto funcionamiento de 
+los equipos de cómputo de acuerdo con los requerimientos del usuario. 
+• Realizar el ensamblaje y configuración de equipos de cómputo de acuerdo con las 
+necesidades del usuario y especificaciones del fabricante. 
+• Aprovechar las técnicas y herramientas informáticas e investigativas desarrollando 
+habilidades y aptitudes que permitan la solución de problemas en el área de las TICS y que 
+impulse emprendimientos a nivel local y regional. 
+• Administrar redes de acuerdo con los requerimientos de la organización para la 
+interconexión de los equipos informáticos. 
+
+
+--- PÁGINA 3 ---
+ 
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 3 de 24 
+ 
+FECHA DE EXPEDICIÓN: 
+29 de noviembre del 
+2023 
+FECHA DE 
+ACTUALIZACION: 
+N/A 
+ELABORADO POR: 
+Unidad de Aseguramiento de la 
+Calidad - Rectorado 
+APROBADO POR: 
+RES-ISTAE-OCS-2023-SO-02-R003 
+ 
+¿Cómo contribuye directamente a la consecución del perfil de egreso la asignatura? 
+La asignatura de matemáticas discretas aporta diferentes habilidades y destrezas acerca de resolución de 
+problemas específicos no solo matemáticos sino de procesos y procedimientos, será capaz de dar 
+solución utilizando soluciones matemáticas. 
+5. OBJETIVOS DE LA ASIGNATURA 
+5.1 OBJETIVO GENERAL 
+Desarrollar una sólida comprensión de los fundamentos matemáticos y lógicos que subyacen en la 
+informática, y aplicar estos principios para resolver problemas complejos en el campo de la informática y 
+las redes utilizando diversas técnicas, herramientas. 
+5.2. OBJETIVOS ESPECÍFICOS 
+• Identificar, representar y dar solución a las operaciones con conjuntos. 
+• Operar con los sistemas binario, octal y hexadecimal. 
+• Comprender y aplicar los principios de la lógica proposicional en el desarrollo de problemas reales 
+aplicados a la carrera. 
+• Aplicar el álgebra booleana en el desarrollo de circuitos con compuertas lógicas. 
+• Aplicar operaciones de números reales y los conceptos básicos de funciones con el fin de 
+realizar un proceso de comparación. 
+• Comprender y aplicar la teoría de grafos y diagramas de árbol en la obtención de la ruta más 
+corta para solucionar un problema de redes. 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 4 ---
+ 
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 4 de 24 
+ 
+FECHA DE EXPEDICIÓN: 
+29 de noviembre del 
+2023 
+FECHA DE 
+ACTUALIZACION: 
+N/A 
+ELABORADO POR: 
+Unidad de Aseguramiento de la 
+Calidad - Rectorado 
+APROBADO POR: 
+RES-ISTAE-OCS-2023-SO-02-R003 
+ 
+6.  RESULTADOS DE APRENDIZAJE 
+ 
+ 
+TIPO Al finalizar el curso, el/a estudiante estará en capacidad de: 
+COGNITIVO 1. Aplica habilidades de Tics, trabajo en equipo, gestión de proyectos, liderazgo y 
+creatividad, para trabajar en ambientes colaborativos con profesionalismo y 
+responsabilidad social. 
+2. Representa y resuelve ejercicios con operaciones utilizando las leyes y relaciones 
+entre conjuntos. 
+3. Aplica y desarrolla estrategias de soluciones y las transfiere a la aplicación en un 
+contexto. 
+4. Analiza problemas matemáticos y de lógica para identificar patrones, relaciones y 
+posibles soluciones en diversos contextos. 
+5. Integra conceptos teóricos y prácticos para formular modelos que faciliten la toma 
+de decisiones en situaciones reales. 
+6. Evalúa la pertinencia y eficiencia de los procedimientos utilizados en la resolución 
+de ejercicios, proponiendo mejoras cuando sea necesario. 
+PROCEDIMENTAL 1. Realiza análisis formalizada modelando y evaluando según las leyes elementales de 
+la lógica. 
+2. Reconoce los conjuntos y las operaciones aplicables junto con las leyes. 
+3. Identifica los diferentes problemas existentes, juntamente con sus posibles 
+diferentes soluciones. 
+4. Formula proposiciones y expresiones lógicas, representándolas mediante tablas de 
+verdad para verificar su validez. 
+5. Representa gráficamente los conjuntos y sus operaciones utilizando diagramas de 
+Venn para facilitar su interpretación. 
+6. Diseña estrategias de resolución de problemas aplicando principios de la lógica y 
+propiedades de los conjuntos de manera ordenada y sistemática. 
+ACTITUDINAL 1. Valora la importancia de la aplicación correcta de las leyes. 
+2. Encuentra varias soluciones a problemas con todo lo aprendido. 
+3. Identifica los diferentes problemas lógicos. 
+4. Muestra disposición para trabajar de manera colaborativa en la resolución de 
+problemas lógicos. 
+5. Asume una actitud crítica y reflexiva frente a los resultados obtenidos en cada 
+ejercicio. 
+6. Mantiene una actitud perseverante ante la dificultad, buscando mejorar sus 
+estrategias de solución. 
+
+
+--- PÁGINA 5 ---
+ 
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: ISTAE-CA-01 
+VERSION: 01 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 5 de 24 
+  
+7. EVIDENCIAS DEL LOGRO DE LOS OBJETIVOS (SISTEMA DE EVALUACIÓN) 
+OBJETIVO 
+GENERA
+L (OG) 
+OBJETIVO
+S 
+ESPECÍFI
+COS 
+(OE) 
+OBJETIVOS 
+DE 
+APRENDIZ
+AJE 
+(OA) 
+SISTEMA DE 
+EVALUACIÓN 
+FINALID
+AD O 
+FUNCIÓN 
+MOMENTO EXTENSIÓ
+N 
+ENFOQUE MÉTODO TÉCNICA INSTRUMENT
+OS 
+/EVIDENCIAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Proporcionar a los 
+estudiantes las 
+herramientas de 
+cálculo necesarias 
+para la 
+comprensión y 
+aplicación en las 
+posteriores 
+asignaturas de la 
+carrera. 
+Identificar, 
+representar 
+y dar 
+solución a 
+las 
+operaciones 
+con 
+conjuntos 
+ 
+ 
+Reconocer las 
+operaciones 
+entre 
+conjuntos 
+ 
+ 
+Formativ
+a 
+Sumativa 
+ 
+ 
+Inicial 
+Continu
+a 
+ 
+ 
+ 
+Parcial 
+ 
+ 
+Cuali- 
+cuantitativ
+a 
+ 
+ 
+Ejercici
+os 
+práctico
+s 
+ 
+ 
+Tareas 
+ 
+Estudio 
+de casos 
+ 
+Tarea en clase 
+ 
+Proyecto 
+de 
+asignatura 
+ 
+Consultas 
+Operar con 
+los sistemas 
+binario, 
+octal y 
+hexadecimal. 
+Identificar los 
+tipos de 
+sistemas 
+numéricos con 
+la finalidad de 
+realizar las 
+conversiones 
+entre 
+sistemas 
+ 
+ 
+Formativ
+a 
+Sumativa 
+ 
+ 
+ 
+Continua 
+ 
+ 
+ 
+Parcial 
+ 
+ 
+Cuali- 
+cuantitativ
+a 
+ 
+ 
+Ejercici
+os 
+práctico
+s 
+ 
+ 
+Tareas 
+ 
+Estudio 
+de casos 
+ 
+Tarea en clase 
+ 
+Proyecto 
+de 
+asignatura 
+ 
+Consultas 
+Comprender 
+y aplicar los 
+principios de 
+la lógica 
+proposiciona
+l en el 
+desarrollo de 
+problemas 
+reales 
+aplicados a 
+la carrera 
+ 
+ 
+ 
+Desarrollar la 
+habilidad de 
+comprender 
+los problemas 
+de manera 
+lógica 
+ 
+ 
+ 
+ 
+Formativ
+a 
+Sumativa 
+ 
+ 
+ 
+ 
+Continua 
+ 
+ 
+ 
+ 
+ 
+Parcial 
+ 
+ 
+ 
+ 
+Cuali- 
+cuantitativ
+a 
+ 
+ 
+ 
+ 
+Ejercici
+os 
+práctico
+s 
+ 
+ 
+ 
+ 
+Tareas 
+ 
+Estudio 
+de casos 
+ 
+ 
+ 
+Tarea en clase 
+ 
+Proyecto 
+de 
+asignatura 
+ 
+Consultas 
+
+
+--- PÁGINA 6 ---
+ 
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: ISTAE-CA-01 
+VERSION: 01 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 6 de 24 
+ Aplicar el 
+álgebra 
+booleana en 
+el desarrollo 
+de circuitos 
+con 
+compuertas 
+lógicas. 
+Desarrollar la 
+habilidad de 
+aplicabilidad de 
+la algebra 
+booleana e 
+identificar las 
+diferentes 
+compuertas 
+ 
+ 
+Formativ
+a 
+Sumativa 
+ 
+ 
+ 
+Continua 
+ 
+ 
+ 
+Parcial 
+ 
+ 
+ 
+Cuali- 
+cuantitativ
+a 
+ 
+ 
+ 
+Ejercici
+os 
+práctico
+s 
+ 
+ 
+Tareas 
+ 
+Estudio 
+de casos 
+ 
+Tarea en clase 
+ 
+Proyecto 
+de 
+asignatura 
+ 
+Consultas 
+ 
+ 
+ 
+ 
+FECHA DE 
+EXPEDICIÓN: 
+29 de noviembre 
+del 2023 
+FECHA DE 
+ACTUALIZ
+ACION: 
+N/A 
+ELABORADO POR: 
+Unidad de Aseguramiento 
+de la Calidad - Rectorado 
+APROBADO POR: 
+RES-ISTAE-OCS-2023-SO-02-
+R003 
+ 
+
+
+--- PÁGINA 7 ---
+ 
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: ISTAE-CA-01 
+VERSION: 01 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 7 de 24 
+  
+  lógicas para 
+su correcto 
+análisis 
+       
+Aplicar         
+operaciones         
+de números 
+reales y los 
+conceptos 
+básicos de 
+funciones 
+con el fin 
+de 
+realizar un 
+Desarrollar la 
+habilidad de 
+encontrar 
+variedad de 
+soluciones a 
+un mismo 
+problema 
+ 
+ 
+Formati
+va 
+Sumativ
+a 
+ 
+ 
+ 
+Continua 
+ 
+ 
+ 
+Parcial 
+ 
+ 
+Cuali- 
+cuantitati
+va 
+ 
+ 
+Ejercici
+os 
+práctic
+os 
+ 
+ 
+Tareas 
+ 
+Estudio 
+de casos 
+ 
+Tarea en clase 
+ 
+Proyecto 
+de 
+asignatura 
+ 
+Consultas 
+proceso de         
+comparación         
+Comprender       
+
+
+--- PÁGINA 8 ---
+ 
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: ISTAE-CA-01 
+VERSION: 01 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 8 de 24 
+ y 
+aplicar la 
+teoría de 
+grafos y 
+diagramas 
+de árbol en 
+la 
+obtención 
+de la ruta 
+más corta 
+para 
+solucionar 
+un 
+problema de 
+redes. 
+Desarrollar la 
+destreza de 
+representar 
+problemas 
+cotidianos en 
+árboles o grafos 
+ 
+Formati
+va 
+Sumativ
+a 
+ 
+Contin
+ua Final 
+ 
+Parcial 
+ 
+Cuali- 
+cuantitati
+va 
+ 
+Ejercici
+os 
+práctic
+os 
+ 
+Tareas 
+ 
+Estudio 
+de casos Tarea en clase 
+ 
+Proyecto 
+de 
+asignatura 
+ 
+Consultas 
+     
+ 
+ 
+ 
+FECHA DE 
+EXPEDICIÓN: 
+29 de noviembre 
+del 2023 
+FECHA DE 
+ACTUALIZ
+ACIÓN: N/A 
+ELABORADO POR: 
+Unidad de Aseguramiento 
+de la Calidad - Rectorado 
+APROBADO POR: 
+RES-ISTAE-OCS-2023-SO-02-
+R003 
+
+
+--- PÁGINA 9 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 9 de 24 
+ 
+8. CONTENIDOS DE ENSEÑANZA DE LA ASIGNATURA 
+UNIDADES 
+TEMÁTICAS 
+SEMAN
+A 
+Nº 
+DE 
+HOR
+AS 
+ESTRATEGIAS 
+DE 
+ENSEÑANZA/APREND
+IZAJE 
+RECURS
+OS 
+RESULTADO
+S DE 
+APRENDIZ
+AJE 
+EVIDENCIAS NOMBRE 
+DEL LIBRO  
+PÁGINAS DE 
+CONSULTA 
+UNIDAD I: TEORÍA DE CONJUNTOS 
+ 
+ 
+ 
+ 
+         Conjuntos 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+Indicaciones generales 
+del tema a tratar. 
+ 
+Lluvia de ideas sobre 
+la temática 
+ 
+Desarrollo de ejercicios. 
+-Equipo 
+audiovisu
+al 
+- Tablero
+s 
+didáctico
+s 
+- Pizarr
+a 
+digital 
+- Aul
+a 
+virtua
+l 
+- Material 
+audiovisu
+al 
+ 
+ 
+ 
+Identifica 
+conjuntos y 
+operaciones 
+correspondientes. 
+Resumen 
+escrito. 
+ 
+Mapa de ideas 
+generadas. 
+ 
+Grupo de 
+ejercicios 
+desarrollados como 
+tarea. 
+Algebra 
+superior 18 
+ 
+ 
+ 
+ 
+              
+Determinación 
+de conjuntos 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+Ejemplos varios para 
+aplicar la determinación 
+de conjuntos. 
+ 
+Desarrollo de 
+ejercicios tipo. 
+-Equipo 
+audiovisua
+l 
+- Tablero
+s 
+didáctico
+s 
+- Pizarr
+a 
+digital 
+- Aula 
+virtual 
+ 
+ 
+ 
+ 
+Representa 
+conjuntos de 
+acuerdo a su 
+determinació
+n. 
+Resumen 
+escrito. 
+ 
+Grupo de ejercicios 
+desarrollados. 
+ 
+Test relacionado 
+con la temática. 
+Algebra 
+superior 19-20 
+
+
+--- PÁGINA 10 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 10 de 24 
+ 
+- Material 
+audiovisu
+al 
+ 
+ 
+ 
+ 
+Operaciones 
+con   conjuntos 
+ 
+ 
+ 
+ 
+ 
+2-3 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+Activación de 
+conocimientos previos 
+mediante lluvia de 
+ideas. Trabajo en 
+grupos. 
+ 
+Grupo de ejercicios 
+para desarrollo 
+individual. 
+-Equipo 
+audiovisua
+l 
+- Tablero
+s 
+didáctico
+s 
+- Pizarr
+a 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisu
+al 
+ 
+ 
+Resuelve 
+ejercicios con 
+operaciones, 
+demostracione
+s de las leyes y 
+relaciones 
+entre 
+conjuntos. 
+Resumen 
+escrito. 
+ 
+Trabajo grupal 
+entregado. 
+ 
+Grupo de ejercicios 
+entregados como 
+tarea. 
+Algebra 
+superior 23-27 
+UNIDAD II: TIPOS DE NÚMEROS 
+ 
+ 
+ 
+ 
+Sistema de 
+Numeración (binario, 
+Octal. 
+Hexadecimal) 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+Discusión dirigida 
+sobre tipos de 
+sistemas de 
+numeración. 
+-Equipo 
+audiovisua
+l 
+- Tablero
+s 
+didáctico
+s 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisu
+al 
+ 
+Identifica y 
+desarrolla las 
+transformacione
+s respectivas 
+entre los 
+sistemas de 
+numeración 
+binario, octal y 
+decimal. 
+ 
+ 
+ 
+ 
+Resumen   
+escrito 
+Matemáticas 36-37 
+
+
+--- PÁGINA 11 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 11 de 24 
+ 
+Ejercicios de conversión 
+de sistemas numéricos 4 1 
+Resolución de ejercicios a 
+los diferentes sistemas de 
+numeración vistos en clase. 
+-Aula 
+virtual 
+Identificar los 
+diferentes 
+procesos de 
+transformación a 
+los sistemas de 
+numeración que 
+usted conoce. 
+Retroalimentación de 
+los ejercicios 
+realizados 
+Matemáticas 36-37 
+ 
+ 
+ 
+ 
+Conversión entre   
+sistemas de numeración. 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+Grupo de ejercicios 
+como ejemplos. 
+ 
+Grupo de ejercicios 
+para ser resueltos como 
+tarea. 
+ 
+Test sobre la temática. 
+-Equipo 
+audiovisu
+al 
+- Tablero
+s 
+didáctico
+s 
+- Pizarr
+a 
+digital 
+- Aul
+a 
+virtua
+l 
+Material 
+audiovisu
+al 
+ 
+ 
+Desarrolla 
+adecuadamente la 
+conversión entre 
+los sistemas de 
+numeración 
+binario, octal y 
+hexadecimal. 
+Resumen    
+escrito. 
+ 
+Documento con 
+la tarea resuelta. 
+ 
+Test evaluado sobre la 
+temática 
+Matemáticas 36-37 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 12 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 12 de 24 
+ 
+ 
+UNIDAD III: LÓGICA PROPOSICIONAL 
+ 
+ 
+ 
+ 
+Leyes del 
+algebra 
+proposicio
+nal 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+Utilización de 
+aplicativos en línea 
+para el desarrollo de 
+organizadores 
+gráficos. 
+-Equipo  
+ 
+ 
+Conoce e 
+identifica las 
+principales leyes 
+del algebra 
+proposicional. 
+ 
+ 
+ 
+ 
+Organizador 
+gráfico de la 
+temática 
+tratada. 
+Algebra superior 9 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+ 
+ 
+ 
+Lógica 
+Matemática, 
+tablas de 
+verdad 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+Indicaciones 
+mediante 
+diagramas del 
+proceso de 
+generación de 
+tablas de verdad. 
+ 
+Grupo de 
+ejercicios de 
+ejemplificación. 
+-Equipo 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+ 
+ 
+Identifica los 
+parámetros 
+necesarios para la 
+construcción de 
+una tabla de 
+verdad. 
+ 
+ 
+ 
+Resumen escrito 
+y desarrollo de 
+ejemplos de 
+clase Algebra superior 6 
+ 
+ 
+ 
+ 
+ 
+Operadores lógicos 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+Explicación de 
+los diferentes 
+operadores a 
+utilizarse. 
+-Equipo 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+ 
+ 
+Construye tablas 
+de verdad 
+siguiendo las 
+reglas del uso de 
+conectores 
+proposicionales. 
+ 
+ 
+ 
+ 
+Tablas de 
+resumen de 
+operadores 
+lógicos 
+Algebra superior 6 
+
+
+--- PÁGINA 13 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 13 de 24 
+ 
+ 
+Tautología, 
+Contingencia y 
+Contradicción 
+ 
+ 
+       6 
+ 
+ 
+1 
+Grupo de 
+ejercicios 
+ejemplificado
+res. 
+Test en línea 
+Grupo de ejercicios 
+sobre la temática 
+como tarea. 
+-Equipo 
+audiovisual 
+-Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+ 
+Evalúa sistemas 
+proposicionales 
+mediante la 
+distribución de 
+tablas de 
+verdad. 
+ 
+Resumen 
+escrito 
+Documento 
+de Ejercicios 
+desarrollados 
+Test 
+evaluado 
+Algebra superior 7 
+Razonamiento 
+lógico (Inferencia 
+Lógica, inducción 
+matemática, Series y 
+Sucesiones 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+Discusión dirigida 
+ 
+Grupo de 
+ejercicios de 
+ejemplo 
+ 
+Grupo de 
+ejercicios para 
+desarrollo de cada 
+estudiante 
+ 
+Test en línea 
+-Equipo 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+ 
+ 
+Realiza 
+interpolación y 
+aproximación 
+de series 
+matemáticas de 
+medición. 
+ 
+ 
+Resumen 
+escrito 
+ 
+Documentó con 
+ejercicios 
+desarrollados 
+ 
+Test evaluado 
+Inducción a la 
+lógica 21-47 
+Ejercicios de lógica 
+proposicional 
+ 
+7 
+ 
+1 
+Grupo de ejercicios 
+para desarrollo de cada 
+estudiante 
+-Aula 
+virtual 
+-Material 
+audiovisual 
+Retroalimentación 
+de los ejercicios 
+realizados 
+Documentó con 
+ejercicios 
+desarrollados Inducción a la 
+lógica 21-47 
+
+
+--- PÁGINA 14 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 14 de 24 
+ 
+UNIDAD IV: ALGEBRA BOOLEANA 
+ 
+ 
+ 
+ 
+ 
+Teorema del 
+álgebra de 
+Booleana 
+ 
+ 
+ 
+ 
+ 
+8 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+Mapa mental del 
+tema utilizando 
+programas en línea 
+-Equipo  
+ 
+ 
+Conoce y aplica 
+los teoremas del 
+Álgebra de 
+Booleana 
+ 
+ 
+ 
+ 
+Exposición del 
+mapa mental a la 
+clase. 
+Álgebra de Boole 
+y sus aplicaciones 22 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+ 
+ 
+ 
+ 
+Representaci
+ón de 
+funciones 
+lógicas 
+ 
+ 
+ 
+ 
+ 
+8 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+Desarrollo del 
+tema mediante 
+slides 
+-Equipo  
+ 
+ 
+Utiliza la 
+representación 
+gráfica de cada 
+elemento en el 
+desarrollo de 
+ejercicios. 
+ 
+ 
+ 
+ 
+ 
+Resumen 
+escrito 
+Álgebra de Boole 
+y sus aplicaciones 23 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+ 
+ 
+ 
+Compuertas 
+lógicas 
+ 
+ 
+ 
+ 
+9 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+Desarrollo de 
+grupo de 
+ejemplos. 
+ 
+Simulación 
+mediante 
+software en 
+línea. 
+-Equipo 
+ 
+Aplica el algebra 
+Booleana en el 
+desarrollo de 
+circuitos con 
+compuertas 
+lógicas 
+ 
+ 
+Resumen 
+escrito 
+ 
+Diagrama 
+simulado 
+Álgebra de Boole 
+y sus aplicaciones 24-25 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+Virtual 
+- Material 
+audiovisual 
+- Software 
+de 
+simulación 
+
+
+--- PÁGINA 15 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 15 de 24 
+ 
+Ejercicios de 
+algebra booleana 
+ 
+9 1 
+Desarrollo de ejercicios 
+como práctica del tema 
+tratado. 
+-Aula 
+Virtual 
+-Material 
+audiovisual 
+-Software de 
+simulación 
+Retroalimentación 
+de los ejercicios 
+realizados 
+Taller Álgebra de Boole 
+y sus aplicaciones 24-25 
+UNIDAD V: NÚMEROS REALES Y FUNCIONES 
+ 
+ 
+ 
+ 
+Operaciones 
+con números 
+Naturales, 
+Reales, 
+Racionales y 
+Enteros 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+Desarrollo del 
+tema mediante 
+slides 
+ 
+Grupo de 
+ejemplos Test 
+en línea 
+-Equipo  
+ 
+ 
+Identifica la 
+clasificación de 
+los números 
+reales y realiza 
+operaciones. 
+ 
+ 
+ 
+ 
+Resumen 
+escrito 
+ 
+Test evaluado 
+Números reales 11-13 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+ 
+ 
+ 
+Propiedades 
+de las 
+relaciones 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+Organizador 
+gráfico de la 
+temática 
+-Equipo  
+ 
+ 
+Aplica las 
+propiedades de 
+las relaciones en 
+el desarrollo de 
+ejercicios. 
+ 
+ 
+ 
+ 
+ 
+Resumen 
+escrito 
+Números reales 23-24 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+ 
+ 
+ 
+Relacio
+nes de 
+equival
+encia 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+Organizador 
+gráfico de la 
+temática 
+-Equipo 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+ 
+ 
+ 
+Identifica una 
+relación de 
+equivalencia y 
+soluciona los 
+problemas 
+planteados 
+ 
+ 
+ 
+ 
+ 
+Resumen 
+escrito 
+Números reales 23-24 
+
+
+--- PÁGINA 16 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 16 de 24 
+ 
+ 
+Funciones 
+ 
+ 
+ 
+ 
+ 
+11 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+Slides de la temática 
+Organigra
+ma de 
+clasificaci
+ón 
+ 
+Trabajo grupal 
+-Equipo 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+Identifica la 
+diferencia entre 
+relación y función 
+ 
+ 
+ 
+Resumen 
+escrito 
+Documento 
+del trabajo 
+grupal 
+desarrollado 
+Algebra superior 87 
+ 
+ 
+ 
+ 
+ 
+Tipos de funciones 
+ 
+ 
+ 
+ 
+ 
+11 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+Documento con 
+resumen de los tipos de 
+funciones 
+-Equipo 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+ 
+ 
+ 
+Conoce e identifica 
+los diferentes tipos 
+de funciones 
+ 
+ 
+ 
+Ejercicios 
+desarrollados del 
+documento 
+proporcionado 
+Algebra superior 96-106 
+ 
+ 
+ 
+ 
+Concepto y 
+representación 
+Gráfica 
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+Graficador de 
+funciones en línea 
+-Equipo 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+ 
+ 
+ 
+Grafica los 
+diferentes tipos de 
+funciones 
+ 
+ 
+ 
+Documento con los 
+ejercicios 
+desarrollados Algebra superior 200-204 
+Ejercicios de 
+Funciones 12 1 Graficador de 
+funciones en línea 
+-Aula 
+virtual 
+-Material 
+audiovisual 
+Taller en clase sobre 
+la gráfica de 
+funciones 
+Retroalimentación 
+de los ejercicios 
+realizados 
+Algebra superior 200-204 
+ 
+
+
+--- PÁGINA 17 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 17 de 24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tasa de cambio 
+mediano y actual 
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+Slides de la 
+temática Test en 
+línea 
+-Equipo 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+ 
+ 
+ 
+Opera con tasas 
+de cambio 
+mediano y 
+actual 
+ 
+ 
+ 
+ 
+Resumen 
+escrito 
+ 
+Test evaluado 
+Algebra superior 189 
+UNIDAD VI: TEORÍA DE GRAFOS Y ÁRBOLES 
+ 
+ 
+ 
+ 
+Grafos, 
+definiciones 
+b á s i c a s 
+ 
+ 
+ 
+ 
+ 
+13 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+Lluvia de ideas 
+-Equipo 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+ 
+ 
+ 
+Identifica los 
+elementos 
+básicos de un 
+grafo. 
+ 
+ 
+ 
+ 
+ 
+Resumen 
+escrito. 
+Matemáticas 
+discreta- teoría de 
+grafos 
+4 
+ 
+Algoritmos de 
+la ruta más 
+corta 
+ 
+ 
+13 
+ 
+ 
+1 
+ 
+ 
+Discusión dirigida. 
+-Equipo 
+audiovisual 
+- Tableros 
+Didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+Determina la ruta 
+más corta en un 
+grafo aplicado a 
+problemas. 
+ 
+Mapa mental del 
+tema. 
+Matemáticas 
+discreta- teoría de 
+grafos 
+4-11 
+
+
+--- PÁGINA 18 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 18 de 24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Redes de flujo en 
+grafos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+Grupo de ejercicios. 
+Simulación de las redes 
+-Equipo 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra digital 
+- Aula 
+virtual 
+Material audiovisual 
+- Software 
+de 
+simulación 
+ 
+ 
+ 
+Interpreta los grafos 
+como un conjunto 
+de vértices y aristas. 
+ 
+ 
+ 
+ 
+ 
+ 
+Red simulada Teoría de grafos 7 
+ 
+ 
+ 
+ 
+Árboles, 
+definiciones básicas 
+ 
+ 
+ 
+ 
+ 
+14 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+Slides de la temática 
+-Equipo 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+ 
+ 
+ 
+Identifica los 
+elementos básicos 
+de un árbol. 
+ 
+ 
+ 
+ 
+ 
+Organizador gráfico 
+Matemáticas 
+discreta- teoría de 
+grafos 
+43-46 
+ 
+ 
+ 
+ 
+ 
+Árboles n-arios 
+ 
+ 
+ 
+ 
+ 
+15 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+Sildes de la temática 
+Trabajo grupal 
+-Equipo 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+ 
+ 
+ 
+Conoce los 
+diferentes tipos de 
+árboles 
+ 
+ 
+ 
+Resumen 
+escrito 
+ 
+Documento del 
+trabajo desarrollado 
+Matemáticas 
+discreta- teoría de 
+grafos 
+49 
+ 
+
+
+--- PÁGINA 19 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 19 de 24 
+ 
+ 
+ 
+Árboles 
+binarios 
+ 
+ 
+ 
+16 
+ 
+ 
+ 
+1 
+ 
+ 
+Slides de la temática 
+Taller individual 
+-Equipo 
+audiovisual 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+ 
+Aplica y 
+relaciona 
+propiedades 
+de árboles 
+con la 
+optimización. 
+Resumen 
+escrito 
+ 
+Documento 
+evaluado del 
+taller 
+Matemáticas 
+discreta- teoría de 
+grafos 
+49 
+Ejercicios de árboles 
+y grafos 16 1 Actividad Práctica -Aula 
+virtual 
+Aplica 
+conocimientos 
+previos para la 
+realización de 
+talleres prácticos 
+acorde al tema 
+Resumen 
+escrito 
+ 
+Documento 
+evaluado del 
+taller 
+Matemáticas 
+discreta- teoría de 
+grafos 
+49 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recorridos por 
+árboles 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+Taller grupal 
+simulación 
+-Equipo 
+audiovisual 
+- Tableros 
+didácticos 
+- Pizarra 
+digital 
+- Aula 
+virtual 
+- Material 
+audiovisual 
+- Software 
+de 
+simulación 
+ 
+ 
+Analiza y 
+desarrolla 
+algoritmos de 
+optimización. 
+Documenta los 
+resultados 
+mediante el uso 
+de aplicaciones 
+y programas 
+adecuados. 
+ 
+ 
+ 
+ 
+ 
+ 
+Documento 
+evaluado del 
+taller 
+Teoría de grafos 21 
+
+
+--- PÁGINA 20 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 20 de 24 
+ 
+FECHA DE EXPEDICIÓN: 
+29 de noviembre del 
+2023 
+FECHA DE 
+ACTUALIZACION: 
+N/A 
+ELABORADO POR: 
+Unidad de Aseguramiento de la 
+Calidad - Rectorado 
+APROBADO POR: 
+RES-ISTAE-OCS-2023-SO-02-R003 
+ 
+9. METODOLOGÍA DE ENSEÑANZA DE LA ASIGNATURA 
+Se priorizará una metodología participativa. El estudiante deberá leer con anterioridad el tema 
+correspondiente a cada clase, traer preguntas o dudas que le hayan surgido en la preparación de este y la 
+solución o intento de soluciones a los ejercicios que se propongan. 
+Predominará la discusión, la argumentación, más que la clase expositiva y magistral por parte del docente. 
+Se trabajará con talleres y lecturas de estudio, las cuales son sugeridas con anterioridad al desarrollo de 
+los temas. 
+La participación en aula deberá ser indispensable para la generación de una opinión propia por parte del 
+educando y un adecuado desarrollo de los proyectos de aula. Proceso que les ayuda a desplegar sus 
+capacidades 
+10. ACTIVIDADES PRÁCTICA EXPERIMENTAL 
+CONTENIDO PRÁCTICO 
+ 
+ACTIVIDADES 
+PRÁCTICAS 
+ 
+SEMAN
+A 
+Nº DE 
+HOR
+AS 
+ESTRATEGIA
+S DE 
+ENSEÑANZA/
+APRENDIZAJ
+E 
+ 
+RECURS
+OS 
+RESULTADOS 
+DE APRENDIZAJE 
+ 
+EVIDENCIA 
+ 
+PÁGINA
+S DE LA 
+GUÍA 
+PRÁCTI
+CA 
+Ejercicios de 
+conversión de 
+sistemas 
+numéricos 
+4 1 Retroalimen
+tación de los 
+ejercicios 
+realizados 
+Aula Reconoce los 
+conjuntos y las 
+operaciones aplicables 
+junto con las leyes. 
+Valora la 
+importancia de la 
+aplicación correcta 
+de las leyes. 
+Trabajos 
+entregados  
+ 
+https://drive.goo
+gle.com/drive/fo
+lders/1MqMv4X
+DNpuMLoKDb
+MGWcB3zU-
+eHa38Hk?usp=d
+rive_link 
+9-
+11 
+Ejercicio
+s de 
+lógica 
+proposici
+onal 
+7 1 Retroalimen
+tación de los 
+ejercicios 
+realizados 
+Aula Identifica los 
+diferentes problemas 
+lógicos. 
+Trabajos 
+entregados 
+ 
+https://drive.goo
+gle.com/drive/fo
+lders/1OLfv_eju
+bMknzmhhoKP
+zadx5OCCjlEB
+9?usp=drive_lin
+k 
+11-
+13 
+
+
+--- PÁGINA 21 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 21 de 24 
+ 
+FECHA DE EXPEDICIÓN: 
+29 de noviembre del 
+2023 
+FECHA DE 
+ACTUALIZACION: 
+N/A 
+ELABORADO POR: 
+Unidad de Aseguramiento de la 
+Calidad - Rectorado 
+APROBADO POR: 
+RES-ISTAE-OCS-2023-SO-02-R003 
+ 
+Ejercicio
+s de 
+algebra   
+booleana 
+9 1 Retroalimen
+tación de los 
+ejercicios 
+realizados 
+Aula Realiza análisis 
+formalizada 
+modelando y 
+evaluando según las 
+leyes elementales de la 
+lógica. 
+Notas 
+ 
+https://drive.goo
+gle.com/drive/fo
+lders/1fWnlwSp
+kk2K0NOgazhP
+97vj5FpmlzkS1
+?usp=drive_link 
+ 
+14-
+15 
+Ejercicio
+s de 
+Funcione
+s 
+12 1 Retroalimen
+tación de los 
+ejercicios 
+realizados 
+Aula Identifica los 
+diferentes problemas 
+existentes, juntamente 
+con sus posibles 
+diferentes soluciones. 
+Siente preparado para 
+encontrar varias 
+soluciones a 
+problemas con todo lo 
+aprendido. 
+Notas 
+ 
+https://drive.goo
+gle.com/drive/fo
+lders/1m3SvjSX
+2FaxMEYjpqE
+UPXq5uS5DwE
+w0T?usp=drive
+_link 
+16-
+18 
+Ejercicio
+s de 
+árboles y             
+grafos 
+16 1 Retroalimen
+tación de los 
+ejercicios 
+realizados 
+Aula Aplica y desarrolla 
+estrategias de 
+soluciones y las 
+transfiere a la 
+aplicación en un 
+contexto 
+Notas 
+ 
+https://drive.goo
+gle.com/drive/fo
+lders/1aCCLxLI
+dON89xe8Suq
+msrJKq98Z0wR
+Ig?usp=drive_li
+nk 
+ 
+19-
+21 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 22 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 22 de 24 
+ 
+FECHA DE EXPEDICIÓN: 
+29 de noviembre del 
+2023 
+FECHA DE 
+ACTUALIZACION: 
+N/A 
+ELABORADO POR: 
+Unidad de Aseguramiento de la 
+Calidad - Rectorado 
+APROBADO POR: 
+RES-ISTAE-OCS-2023-SO-02-R003 
+ 
+  
+11. EVALUACIÓN DEL PROGRAMA DE ESTUDIO DE LA ASIGNATURA 
+ 
+TIPO DE 
+EVALUACIÓN  
+CRITERIOS DE 
+EVALUACIÓN 
+DESCRIPCIÓN DE ACTIVIDADES PERIODO 
+ACADÉMICO 
+PARCIAL 
+1 
+PARCIAL 
+2 
+EVALUACIÓN 
+FORMATIVA 
+Actividades en el aula 
+de clase (en contacto 
+con el docente) 
+Resumen de clase 
+2 pt 2 pt 
+Talleres teóricos 
+Mesas de trabajo 
+Debates 
+Seminarios 
+Actividades de 
+refuerzo académico 
+(con o sin contacto 
+con el docente) 
+Participación en el aula (preguntas, lluvia de 
+ideas, etc) 
+3 pt 3 pt 
+Proyectos de aula 
+Ensayos 
+Resúmenes 
+Exposiciones 
+Presentaciones digitales 
+Revisiones bibliográficas entre otros 
+  
+Actividades prácticas 
+y experimentales (en 
+contacto con el 
+docente) 
+Elaboración de maquetas  
+3 pt 3 pt 
+Experimentos 
+Socializaciones 
+Talleres prácticos 
+Visitas técnicas 
+Aplicación de instrumentos 
+Dramatizaciones 
+Resolución de problemas prácticos, 
+comprobación, contrastación, replicación, 
+entre otros 
+EVALUACIÓN 
+SUMATIVA 
+Evaluación   
+2 pt 2 pt 
+Cuestionarios 
+Pruebas orales  
+Pruebas escritas 
+Pruebas virtuales 
+Actividades practicas o experimentales, 
+entre otros 
+    TOTAL, PUNTAJE POR PARCIAL 10 10 
+    TOTAL, PUNTAJE FINAL 10 
+
+
+--- PÁGINA 23 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 23 de 24 
+ 
+FECHA DE EXPEDICIÓN: 
+29 de noviembre del 
+2023 
+FECHA DE 
+ACTUALIZACION: 
+N/A 
+ELABORADO POR: 
+Unidad de Aseguramiento de la 
+Calidad - Rectorado 
+APROBADO POR: 
+RES-ISTAE-OCS-2023-SO-02-R003 
+ 
+ 
+12. BIBLIOGRAFÍA  
+12.1. BÁSICA  
+Salinas, G. (2011). Álgebra superior.   
+https://drive.google.com/file/d/19vPmJdfhUf4q2Iu6BSHObmtF7TzGGgF0/view?usp=dri
+ve_link 
+Camacho Naranjo, L. (2002). Introducción a la lógica. 
+https://drive.google.com/file/d/1YHmbEwZeMyNGrplIJyGm84VMIeZkjw7r/view?usp=d
+rive_link 
+Paenza, A. (2005). Matemáticas... ¿Estás ahí?   
+https://drive.google.com/file/d/1xw_2510jgFDm3mGOhNAqUn0X4x_M5uMn/view?usp
+=drive_link 
+Johnsonbaugh, R. (2020). Matemática discreta (6.ª ed.). PEARSON/Prentice Hall.  
+https://drive.google.com/file/d/1xgJ-
+yshg03yte3xkeuZmwc4JXksbHc5W/view?usp=drive_link 
+12.2. COMPLEMENTARIA O DE CONSULTA  
+Leal Ruperto, J. L. (1996). Álgebra de Boole.  
+                https://drive.google.com/file/d/1XMDZ-3yTKfHyOHTxM-
+2TrLTmyVi_sgXZ/view?usp=drive_link 
+Álvarez Nuñez, M. F. (2013). Teoría de grafos.  
+https://drive.google.com/file/d/1d_uHuSBJU_17rPOhEckGHON60dNFcAkH/view?usp=
+drive_link 
+Vargas Ramírez, T. (2021). Los números reales y sus propiedades.  
+
+
+--- PÁGINA 24 ---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ 
+  
+PROGRAMA DE ESTUDIO DE LA 
+ASIGNATURA (PEA) 
+ÁREA: Vicerrectorado 
+CODIGO: 00-000-00 
+VERSION: 00 
+UBICACIÓN: San Lorenzo 
+N° PAGINAS: 24 de 24 
+ 
+FECHA DE EXPEDICIÓN: 
+29 de noviembre del 
+2023 
+FECHA DE 
+ACTUALIZACION: 
+N/A 
+ELABORADO POR: 
+Unidad de Aseguramiento de la 
+Calidad - Rectorado 
+APROBADO POR: 
+RES-ISTAE-OCS-2023-SO-02-R003 
+ 
+https://drive.google.com/file/d/1DpyHQ4DSXMTYZAc2FI145CvSOaUJPEOy/view?usp
+=drive_link 
+13. FIRMAS DE RESPONSABILIDAD  
+ 
+Elaborado por: 
+ 
+ 
+ 
+Firmado electrónicamente por: 
+JOSSELYN YOMAIRA 
+QUINONEZ MINA 
+Validar únicamente con FirmaEC 
+Lic. Josselyn Quiñónez Mina 
+Docente de Desarrollo de 
+Software 
+Revisado por: 
+ 
+ 
+ 
+ 
+ 
+MSc. Jonathan Arana Ponce 
+Coordinador Carrera de 
+Desarrollo de Software 
+Aprobado por: 
+ 
+ 
+ 
+ 
+ 
+Mgtr. Alejandro Palacios 
+                  Rector ISTAE 
+ 
+San Lorenzo 11/05/2026 
+Validar sólo en FirmaEC.
+Firmado Electrónicamente por:
+EDER JONATHAN
+ARANA PONCE
+

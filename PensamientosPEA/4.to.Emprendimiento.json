@@ -1,0 +1,157 @@
+{
+  "programa_estudio_asignatura": {
+    "institucion": "INSTITUTO SUPERIOR TECNOLÓGICO ALBERTO ENRÍQUEZ",
+    "area": "Vicerrectorado",
+    "codigo_documento": "ISTAE-CA-01",
+    "version": "01",
+    "ubicacion": "San Lorenzo",
+    "fecha_expedicion": "29 de noviembre 2023",
+    "datos_generales": {
+      "carrera": "Desarrollo de Software",
+      "asignatura": "Emprendimiento",
+      "codigo_asignatura": "TSDS 401",
+      "prerrequisito": "Ninguno",
+      "codigo_prerrequisito": "TSDS401",
+      "correquisito": "Ninguno",
+      "nivel": "Cuarto Nivel A",
+      "periodo_academico": "IPA-2026",
+      "numeros_creditos": 1,
+      "horas_contacto_docente_semanal": 3,
+      "horas_practicas_semanal": 1,
+      "horas_autonomo_semanal": 2
+    },
+    "datos_docente": {
+      "nombre": "Ana Karen Solis Bolaño",
+      "grados_academicos": "Abogada de los Tribunales de la Republica del Ecuador",
+      "celular": "0997980775",
+      "correo": "asolis@istae.edu.ec",
+      "dias_tutorias": "Lunes y martes",
+      "horas_tutorias": "15:00 hasta 16:00"
+    },
+    "descripcion_asignatura": "La asignatura de Proyecto de Innovación y Emprendimiento comprende el proceso semanal de enseñanza de 2 horas teóricas, 1 de prácticas y 3 horas de aprendizaje autónomo para los estudiantes de cuarto nivel, acerca espíritu emprendedor, pero que no saben cómo desarrollar sus ideas en nuestra época actual de cambios vertiginoso en el ámbito tecnológico en los cuales el estudiante actual se desenvolverá, aporta nuevos conocimientos y apoyo para el desarrollo de habilidades y destrezas que le permitan desarrollar el espíritu empresarial y contribuir al desarrollo de empresas y negocios propios generando empleo y riqueza para sí y sus trabajadores, optimizando procesos, analizando alternativas optimas, evaluando resultados a través de ideas innovadoras y creativas y poder desempeñarse en forma eficiente en cualquier entorno de la sociedad ecuatoriana.",
+    "funciones_especificas": {
+      "perfil_egreso": "Los estudiantes al egresar de la Carrera de Desarrollo de Software serán capaces de realizar soporte en desarrollo y aplicación de programas informáticos y aplicativos móviles mediante la operación de protocolos técnicos de las ciencias informáticas.",
+      "contribucion_asignatura": "La asignatura de Proyecto de Innovación y Emprendimiento aporta habilidades y conocimiento buscando desarrollar el espíritu empresarial de los estudiantes enfatizando que los tecnólogos en Desarrollo de Software por su formación y su amplio campo de acción pueden contribuir al desarrollo de negocios y empresas propias generando riqueza. Al aprobar la asignatura el estudiante formulará y sustentará un Plan de Negocio correctamente estructurado y analizado, para un producto o servicio totalmente nuevo o innovado respecto a alguno existente, basado en necesidades de clientes reales..."
+    },
+    "objetivos": {
+      "general": "Diseñar modelos de emprendimiento, pertinentes, innovadores y dinámicos, aprovechando las oportunidades y tendencias del ámbito profesional sobre la base del auto conocimiento, la ética, el respeto al ambiente y a la sociedad, y que le permitan resolver problemas del entorno que lo rodea.",
+      "especificos": [
+        "Motivar a que los estudiantes sepan que existen alternativas de crecimiento personal mediante el emprendimiento de negocios o empresas particulares...",
+        "Fomentar en los estudiantes la búsqueda de soluciones a sus necesidades mediante la iniciativa individual y sin depender de otros.",
+        "Ser fuente inspiradora del espíritu empresarial que cada uno de nosotros llevamos dentro.",
+        "Diferenciar de entre los distintos modelos de negocios que existen y saber cómo y en qué momento aplicarlos."
+      ]
+    },
+    "resultados_aprendizaje": {
+      "cognitivo": [
+        "El estudiante analiza la relación entre el desarrollo de software y los factores socioeconómicos, culturales y ambientales...",
+        "El estudiante justifica la importancia de la ética y la sostenibilidad en la planificación, diseño y aplicación de soluciones tecnológicas...",
+        "El estudiante describe y evalúa cómo los factores socioeconómicos afectan la adopción, desarrollo y difusión de tecnologías digitales..."
+      ],
+      "procedimental": [
+        "El estudiante identifica y analiza casos reales donde el software ha generado impacto en la sociedad y la economía...",
+        "El estudiante aplica principios éticos y de responsabilidad social en la evaluación y diseño de soluciones tecnológicas...",
+        "El estudiante diseña y propone soluciones tecnológicas innovadoras, integrando criterios de impacto social, cultural y ambiental..."
+      ],
+      "actitudinal": [
+        "El estudiante demuestra interés y comprensión sobre el papel del software en el desarrollo sostenible y en la promoción de la equidad social...",
+        "El estudiante evidencia compromiso en la toma de decisiones responsables dentro de iniciativas emprendedoras, actuando con ética...",
+        "Valora y promueve la innovación tecnológica orientada al bienestar social, la inclusión y la sostenibilidad..."
+      ]
+    },
+    "contenidos_ensenanza": [
+      {
+        "unidad": "UNIDAD I. Emprendimiento, Equidad de género e interculturalidad",
+        "semanas": [1, 2, 3],
+        "temas_principales": [
+          "Emprendimientos.",
+          "Grupos socioculturales y de género.",
+          "Emprendimientos Interculturales."
+        ]
+      },
+      {
+        "unidad": "UNIDAD II. Liderazgo Empresarial",
+        "semanas": [4, 5, 6],
+        "temas_principales": [
+          "Individuos como Lideres",
+          "Liderazgo de equipo y organizacional",
+          "Economía circular en la empresa"
+        ]
+      },
+      {
+        "unidad": "UNIDAD III. Emprendimiento e Innovación",
+        "semanas": [7, 8, 9, 10],
+        "temas_principales": [
+          "Conceptualización de emprendimiento e innovación",
+          "Factores para el emprendimiento",
+          "Tipos de emprendimiento",
+          "Fuentes de innovación para la generación de un emprendimiento"
+        ]
+      },
+      {
+        "unidad": "Unidad IV: Modelo de Negocio y Marketing Digital",
+        "semanas": [11, 12, 13, 14, 15, 16],
+        "temas_principales": [
+          "Generación ideas de negocios",
+          "Estructura del modelo de negocio",
+          "Desarrollo del modelo de negocio",
+          "Fundamentos del plan de marketing digital",
+          "Plataforma de venta digital",
+          "Herramientas de medición, automatización y monitorización en el marketing digital"
+        ]
+      }
+    ],
+    "metodologia_ensenanza": "El proceso de aprendizaje se sustenta e Cn inductiva-deductiva, como analítica y sintética, exposición, diálogos, prácticas y dinámicas grupales. Los trabajos de índole práctico tienen vital importancia en la asignatura, comprendiendo que, a través del desarrollo de segmentos de código posterior al análisis crítico del problema, simulan escenarios reales. La motivación del estudiante en cada unidad se dará en base al seguimiento del Syllabus y él envió de tareas...",
+    "evaluacion_programa": {
+      "formativa": {
+        "actividades_aula_clase": "2pt",
+        "actividades_refuerzo_academico": "3pt",
+        "actividades_practicas_experimentales": "3pt"
+      },
+      "sumativa": {
+        "evaluacion_cuestionarios_pruebas": "2pt"
+      },
+      "puntaje_total_por_parcial": 10
+    },
+    "bibliografia": {
+      "basica": [
+        "Drucker, P. F. (2002). La innovación y el empresariado innovador. Editorial Sudamericana.",
+        "Osterwalder, A., & Pigneur, Y. (2011). Generación de modelos de negocio. Deusto.",
+        "Kotler, P., & Keller, K. L. (2016). Dirección de marketing (15.ª ed.). Pearson.",
+        "Chaffey, D., & Ellis-Chadwick, F. (2019). Marketing digital: estrategia, implementación y práctica (7.ª ed.). Pearson.",
+        "Brown, T. (2009). Change by design: How design thinking transforms organizations and inspires innovation. Harper Business.",
+        "Ries, E. (2011). The lean startup. Crown Business.",
+        "Blank, S., & Dorf, B. (2012). The startup owner’s manual. K&S Ranch.",
+        "Hisrich, R. D., Peters, M. P., & Shepherd, D. A. (2017). Entrepreneurship (10th ed.). McGraw-Hill.",
+        "Robbins, S. P., & Coulter, M. (2018). Administración (14.ª ed.). Pearson."
+      ],
+      "complementaria": [
+        "Sen, A. (1999). Development as freedom. Oxford University Press.",
+        "García Canclini, N. (2004). Diferentes, desiguales y desconectados. Gedisa.",
+        "Organización para la Cooperación y el Desarrollo Económicos (OCDE). (2023). Manual de Oslo: Guía para la recogida e interpretación de datos sobre innovación. OCDE.",
+        "Organización Internacional del Trabajo (OIT). (2011). Género y emprendimiento: Guía de formación para mujeres empresarias. OIT.",
+        "Chesbrough, H. (2003). Open innovation. Harvard Business School Press.",
+        "Porter, M. E. (2008). Estrategia competitiva. CECSA.",
+        "Kaplan, A. M., & Haenlein, M. (2010). Users of the world, unite! Business Horizons, 53(1), 59–68.",
+        "Ryan, D. (2016). Understanding digital marketing. Kogan Page.",
+        "Villarreal, I., & Buenrostro, H. (2023). La interculturalidad en los negocios internacionales como una ventaja competitiva. ResearchGate.",
+        "Apetrei, A., Ribeiro, D., & Roig, S. (2013). El emprendedor social: una explicación intercultural. Revista de Economía Mundial"
+      ]
+    },
+    "firmas_responsabilidad": {
+      "elaborado_por": {
+        "nombre": "MSc. Ana Solis Bolaño",
+        "cargo": "Docente Tecnología Superior en Desarrollo de Software"
+      },
+      "revisado_por": {
+        "nombre": "MSc. Jonathan Arana Ponce",
+        "cargo": "Coordinador Carrera Tecnología Superior en Desarrollo de Software"
+      },
+      "aprobado_por": {
+        "nombre": "Mgtr. Alejandro Palacios Acosta",
+        "cargo": "Rector del Instituto Superior Alberto Enriquez"
+      },
+      "lugar_y_fecha": "San Lorenzo, 27/04/2026"
+    }
+  }
+}
